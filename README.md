@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashraf-khalil&label=Profile%20views&color=db1a1a&style=flat" alt="ahmed-ashraf-khalil" /> </p>
 
-- 🔭 I’m currently working on [high-end-projects](https://github.com/Ahmed-Ashraf-Khalil/high-end-projects)
-
 - 🌱 I’m currently learning **generative models, LLMs and Stock market Algorithmic trading**
 
 - 💬 Ask me about **Data science and any creative idea you have in mind**
