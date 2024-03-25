@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahmedashrafkhalil.ds@gmail.com**
 
-- ⚡ Fun fact **I love cooking and writing songs**
+- ⚡ Fun fact **I love cooking and traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
